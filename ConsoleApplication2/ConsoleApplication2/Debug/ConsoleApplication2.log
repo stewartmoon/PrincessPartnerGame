@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\smoon5\desktop\consoleapplication2\consoleapplication2\source.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\smoon5\desktop\consoleapplication2\consoleapplication2\source.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\smoon5\desktop\consoleapplication2\consoleapplication2\source.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\smoon5\desktop\consoleapplication2\consoleapplication2\source.cpp(73): error C2059: syntax error: ';'
+c:\users\smoon5\desktop\consoleapplication2\consoleapplication2\source.cpp(77): error C2059: syntax error: '}'
+c:\users\smoon5\desktop\consoleapplication2\consoleapplication2\source.cpp(77): error C2143: syntax error: missing ';' before '}'
